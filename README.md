@@ -54,15 +54,3 @@ Blue Bird mengoperasikan armada fisik, sehingga produktivitas tiap unit menentuk
 - Pemetaan `service_type` bersifat asumsi dan perlu konfirmasi Data Engineering.
 - Tarif hampir identik antar-kelas layanan, tidak lazim dan perlu dicek ke sumber.
 
-## Struktur repository
-
-```
-.
-├── Capstone_Project_3_Blue_Bird.ipynb
-├── README.md
-├── data/
-│   ├── bb_trips.csv
-│   ├── bb_drivers.csv
-│   └── bb_corporate_clients.csv
-└── images/        # dibuat otomatis saat notebook dijalankan
-```
